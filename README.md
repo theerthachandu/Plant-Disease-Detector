@@ -11,7 +11,7 @@ This is a Machine Learning-based Streamlit web app that detects plant diseases f
 
 ## 🛠️ Technologies Used
 
-- Python 🐍
+- Python 
 - TensorFlow / Keras
 - Streamlit 🌐
 - NumPy
